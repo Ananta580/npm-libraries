@@ -22,9 +22,12 @@ Insert the below code to the html page where you need the card.
 ```
 Great! This is all you need as part of initial usage.
 
-## What's more
 
-### Border
+
+# What's more
+
+### Bordered Card
+This property will help you add border to your card, so that it can be blend with the other style of your page.
 
 ```html
 [Border]="true"     : Default is false`
@@ -39,7 +42,8 @@ Great! This is all you need as part of initial usage.
 </ng-card-ap>
 ```
 
-### Hovering
+### Hoverable Card
+This property will help you add hoverable behaviour to your card, it will help you to stylize your boring card.
 
 ```html
 [Hoverable]="true"  : Default is false
@@ -54,12 +58,13 @@ Great! This is all you need as part of initial usage.
 </ng-card-ap>
 ```
 
-### Image cards
+### Image Card
+Image property in the card is to add Image in the card, there can be a usecase when this kind of thing is required to show image cards
+
 ```html
 [Image]="'https://upload.wikimedia.org/wikipedia/commons/3/36/Hopetoun_falls.jpg'"
 ----------------------------------------------------------------------------------
 
-<br />
 <ng-card-ap
 [Image]="'https://upload.wikimedia.org/wikipedia/commons/3/36/Hopetoun_falls.jpg'"
 [Title]="'Food and colors'"
@@ -70,6 +75,7 @@ Great! This is all you need as part of initial usage.
 ```
 
 ### Overall element Usage
+What if we combine all these property, you can easily turn off the property to false, if not required by your usecase.
 
 ```html
 <ng-card-ap
