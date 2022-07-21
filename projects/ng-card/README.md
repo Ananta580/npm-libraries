@@ -7,16 +7,10 @@ I have designed this card package to help people like me searching for a card te
 ![Screenshot](https://i.imgur.com/khZjzfC.png)
 
 ### 2. With Image and without border
-<img
-  src="assets/withoutborder.png"
-  alt="Without border"
-  title="Without border">
+![Screenshot](https://i.imgur.com/cBpZOBm.png)
 
 ### 3. With Image and with border
-<img
-  src="assets/withimage.png"
-  alt="With border"
-  title="With border">
+![Screenshot](https://i.imgur.com/i5XnkS6.png)
   
 ## How it works
 
