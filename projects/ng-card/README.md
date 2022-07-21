@@ -22,7 +22,11 @@ Insert the below code to the html page where you need the card.
 ```
 Great! This is all you need as part of initial usage.
 ![Alt text](assets/basic.png "Sample Basic image")
-
+<img
+  src="assets/basic.png"
+  alt="Sample Basic image"
+  title="Sample Basic image"
+  style="border-radius:10px;">
 
 # What's more
 
