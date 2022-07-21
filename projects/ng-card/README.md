@@ -5,7 +5,7 @@ I have designed this card package to help people like me searching for a card te
 ## Sample Images
 ### 1. Basic / Simple without image
 <img
-  src="assets/basic.png"
+  src="https://previews.dropbox.com/p/thumb/ABkAAGkgy9_KKxWlveYE4yZW2k0l_wGR_wXwHUL0S1RNFZK9Mei-AMqn6OC9BWwaMSUi6A0_brt0Pg0fwYajO53IaWn5vn1CkiQnD3kn3G6j8llWS3JbRUu8oaRr4uqtXmPiXMV4Kt0r8qE5gozlJLRgZRjf5v_b8UbWDomIH7wNKOwVrXZuxZkaUoGHuGaWu30FC4dHW2SbWzCtfXZYpj1HAwF-O_YHdBq2xCcY-hSWRihHw0-K249wzVa0sSyw1BEJbz9Oay3dhE1warVxXbniHj3A8WARQ0fOiLIopVyX72cVieNb7sQ0NCybFoHjIDgtJCbtQPnVNFBe0DXAz4qDGl8snQIJr1oSChUbZHtdtBwmamBiPl80EiIVO3cI4IQ/p.png"
   alt="Sample Basic image"
   title="Sample Basic image">
 
