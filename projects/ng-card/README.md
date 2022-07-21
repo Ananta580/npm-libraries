@@ -21,7 +21,9 @@ Insert the below code to the html page where you need the card.
 </ng-card-ap>
 ```
 Great! This is all you need as part of initial usage.
-![Alt text](assets/basic.png "Sample Basic image")
+
+Sample Image
+
 <img
   src="assets/basic.png"
   alt="Sample Basic image"
