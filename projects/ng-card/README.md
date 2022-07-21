@@ -1,10 +1,13 @@
-# NgCard
+# Ng Card: Beautiful Card with multiple usage
 
-This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
+I designed this card package to help people lke me searching for a card template to add in their Angular project. This card design consists of various dynamic things which will help you to create different types of card: With Image, without image etc. I am continuously contributing to this thing and If you like this please, give me a star.
 
-## Code scaffolding
+## How it works
 
-Run `ng generate component component-name --project ng-card` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module --project ng-card`.
+1. Run `npm install ng-cards-ap` which will add this package to your package.json file.
+2. Import `NgCardModule` in your Module that will be using this card component.
+3. You have successfully set it up.
+
 > Note: Don't forget to add `--project ng-card` or else it will be added to the default project in your `angular.json` file. 
 
 ## Build
