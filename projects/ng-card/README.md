@@ -25,8 +25,10 @@ Great! This is all you need as part of initial usage.
 ## What's more
 
 ### Border
-[Border]="True"     : Default is false
+
 ```html
+[Border]="True"     : Default is false
+<br />
 <ng-card-ap
 [Border]="True"
 [Title]="'Food and colors'"
@@ -35,19 +37,42 @@ Great! This is all you need as part of initial usage.
                and you can showcase your website with good content.'">
 </ng-card-ap>
 ```
+
 ### Hovering
+
 ```html
 [Hoverable]="True"  : Default is false
------------------------------------------
+<br />
 <ng-card-ap
-[Border]="True"
+[Hoverable]="True"
 [Title]="'Food and colors'"
 [Subtitle]="'Written by: Rohn Rose'" 
 [Description]="'Some sort of description that will make this card looks better
                and you can showcase your website with good content.'">
 </ng-card-ap>
 ```
+
 ### Image cards
 ```html
-[Image]="'[path_to_the_image](https://upload.wikimedia.org/wikipedia/commons/3/36/Hopetoun_falls.jpg)'"
+[Image]="'https://upload.wikimedia.org/wikipedia/commons/3/36/Hopetoun_falls.jpg'"
+<br />
+<ng-card-ap
+[Image]="'https://upload.wikimedia.org/wikipedia/commons/3/36/Hopetoun_falls.jpg'"
+[Title]="'Food and colors'"
+[Subtitle]="'Written by: Rohn Rose'" 
+[Description]="'Some sort of description that will make this card looks better
+               and you can showcase your website with good content.'">
+</ng-card-ap>
 ```
+
+### Overall element Usage
+
+<ng-card-ap
+[Border]="True"
+[Hoverable]="True"
+[Image]="'https://upload.wikimedia.org/wikipedia/commons/3/36/Hopetoun_falls.jpg'"
+[Title]="'Food and colors'"
+[Subtitle]="'Written by: Rohn Rose'" 
+[Description]="'Some sort of description that will make this card looks better
+               and you can showcase your website with good content.'">
+</ng-card-ap>
