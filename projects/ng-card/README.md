@@ -4,7 +4,7 @@ I have designed this card package to help people like me searching for a card te
 
 ## Sample Images
 ### 1. Basic / Simple without image
-![My Remote Image](https://www.dropbox.com/s/lvslsuqgnoahb1m/basic.png?dl=0)
+![Screenshot](http://i.imgur.com/ebuHuem.png?raw=true)
 
 ### 2. With Image and without border
 <img
