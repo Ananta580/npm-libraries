@@ -6,7 +6,7 @@ I have designed this card package to help people like me searching for a card te
 
 1. Run `npm install ng-cards-ap` in your angular project which will add this package to your package.json file.
 2. Import `NgCardModule` in your Module that will be using this card component.
-3. You have successfully set it up.
+3. You have successfully setup the ng-card-ap.
 
 ## Example, Sample Usage (Basic card)
 
