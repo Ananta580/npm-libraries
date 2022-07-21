@@ -27,8 +27,8 @@ Great! This is all you need as part of initial usage.
 ### Border
 
 ```html
-[Border]="True"     : Default is false
-<br />
+<b>[Border]="True"     : Default is false`</b>
+----------------------------------------------
 <ng-card-ap
 [Border]="True"
 [Title]="'Food and colors'"
