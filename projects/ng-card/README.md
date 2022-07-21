@@ -27,11 +27,11 @@ Great! This is all you need as part of initial usage.
 ### Border
 
 ```html
-[Border]="True"     : Default is false`
+[Border]="true"     : Default is false`
 ---------------------------------------
 
 <ng-card-ap
-[Border]="True"
+[Border]="true"
 [Title]="'Food and colors'"
 [Subtitle]="'Written by: Rohn Rose'" 
 [Description]="'Some sort of description that will make this card looks better
@@ -42,12 +42,11 @@ Great! This is all you need as part of initial usage.
 ### Hovering
 
 ```html
-[Hoverable]="True"  : Default is false
+[Hoverable]="true"  : Default is false
 ---------------------------------------
 
-<br />
 <ng-card-ap
-[Hoverable]="True"
+[Hoverable]="true"
 [Title]="'Food and colors'"
 [Subtitle]="'Written by: Rohn Rose'" 
 [Description]="'Some sort of description that will make this card looks better
@@ -74,8 +73,8 @@ Great! This is all you need as part of initial usage.
 
 ```html
 <ng-card-ap
-[Border]="True"
-[Hoverable]="True"
+[Border]="true"
+[Hoverable]="true"
 [Image]="'https://upload.wikimedia.org/wikipedia/commons/3/36/Hopetoun_falls.jpg'"
 [Title]="'Food and colors'"
 [Subtitle]="'Written by: Rohn Rose'" 
