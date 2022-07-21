@@ -10,23 +10,22 @@ I designed this card package to help people lke me searching for a card template
 
 ## Example, Sample Usage (Basic card)
 
+Insert the below code to the html page where you need the card.
+
 ```html
 <ng-card-ap 
 [Title]="'Food and colors'"
 [Subtitle]="'Written by: Rohn Rose'" 
-[Description]="'Some sort of description that will make this card looks better and you can showcase your website with good content.'">
+[Description]="'Some sort of description that will make this card looks better
+               and you can showcase your website with good content.'">
 </ng-card-ap>
 ```
-Run `ng build ng-card` to build the project. The build artifacts will be stored in the `dist/` directory.
+Great! This is all you need as part of initial usage.
 
-## Publishing
+## What's more
 
-After building your library with `ng build ng-card`, go to the dist folder `cd dist/ng-card` and run `npm publish`.
+### Border
 
-## Running unit tests
+### Hovering
 
-Run `ng test ng-card` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Image cards
