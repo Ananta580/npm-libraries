@@ -25,12 +25,27 @@ Great! This is all you need as part of initial usage.
 ## What's more
 
 ### Border
-```html
 [Border]="True"     : Default is false
+```html
+<ng-card-ap
+[Border]="True"
+[Title]="'Food and colors'"
+[Subtitle]="'Written by: Rohn Rose'" 
+[Description]="'Some sort of description that will make this card looks better
+               and you can showcase your website with good content.'">
+</ng-card-ap>
 ```
 ### Hovering
 ```html
 [Hoverable]="True"  : Default is false
+-----------------------------------------
+<ng-card-ap
+[Border]="True"
+[Title]="'Food and colors'"
+[Subtitle]="'Written by: Rohn Rose'" 
+[Description]="'Some sort of description that will make this card looks better
+               and you can showcase your website with good content.'">
+</ng-card-ap>
 ```
 ### Image cards
 ```html
