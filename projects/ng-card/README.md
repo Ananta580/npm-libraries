@@ -2,6 +2,25 @@
 
 I have designed this card package to help people like me searching for a card template to add in their Angular project. This card design consists of various dynamic things which will help you to create different types of card: With Image, without image etc. I am continuously contributing to this thing and If you like this after using, consider give me a star.
 
+## Sample Images
+1. Basic one
+<img
+  src="assets/basic.png"
+  alt="Sample Basic image"
+  title="Sample Basic image">
+
+2. With Image and without border
+<img
+  src="assets/withoutborder.png"
+  alt="Without border"
+  title="Without border">
+
+2. With Image and with border
+<img
+  src="assets/withimage.png"
+  alt="With border"
+  title="With border">
+  
 ## How it works
 
 1. Run `npm install ng-cards-ap` in your angular project which will add this package to your package.json file.
@@ -22,13 +41,6 @@ Insert the below code to the html page where you need the card.
 ```
 Great! This is all you need as part of initial usage.
 
-Sample Image
-
-<img
-  src="assets/basic.png"
-  alt="Sample Basic image"
-  title="Sample Basic image"
-  style="border-radius:10px !important;">
 
 # What's more
 
