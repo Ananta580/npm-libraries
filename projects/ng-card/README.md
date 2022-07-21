@@ -26,7 +26,7 @@ Great! This is all you need as part of initial usage.
   src="assets/basic.png"
   alt="Sample Basic image"
   title="Sample Basic image"
-  style="border-radius:10px;">
+  style="border-radius:10px !important;">
 
 # What's more
 
