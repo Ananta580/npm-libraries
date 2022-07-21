@@ -27,8 +27,9 @@ Great! This is all you need as part of initial usage.
 ### Border
 
 ```html
-<b>[Border]="True"     : Default is false`</b>
-----------------------------------------------
+[Border]="True"     : Default is false`
+---------------------------------------
+
 <ng-card-ap
 [Border]="True"
 [Title]="'Food and colors'"
@@ -42,6 +43,8 @@ Great! This is all you need as part of initial usage.
 
 ```html
 [Hoverable]="True"  : Default is false
+---------------------------------------
+
 <br />
 <ng-card-ap
 [Hoverable]="True"
@@ -55,6 +58,8 @@ Great! This is all you need as part of initial usage.
 ### Image cards
 ```html
 [Image]="'https://upload.wikimedia.org/wikipedia/commons/3/36/Hopetoun_falls.jpg'"
+----------------------------------------------------------------------------------
+
 <br />
 <ng-card-ap
 [Image]="'https://upload.wikimedia.org/wikipedia/commons/3/36/Hopetoun_falls.jpg'"
@@ -67,6 +72,7 @@ Great! This is all you need as part of initial usage.
 
 ### Overall element Usage
 
+```html
 <ng-card-ap
 [Border]="True"
 [Hoverable]="True"
@@ -76,3 +82,4 @@ Great! This is all you need as part of initial usage.
 [Description]="'Some sort of description that will make this card looks better
                and you can showcase your website with good content.'">
 </ng-card-ap>
+```
