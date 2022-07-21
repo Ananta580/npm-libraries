@@ -25,7 +25,14 @@ Great! This is all you need as part of initial usage.
 ## What's more
 
 ### Border
-
+```html
+[Border]="True"     : Default is false
+```
 ### Hovering
-
+```html
+[Hoverable]="True"  : Default is false
+```
 ### Image cards
+```html
+[Image]="'[path_to_the_image](https://upload.wikimedia.org/wikipedia/commons/3/36/Hopetoun_falls.jpg)'"
+```
