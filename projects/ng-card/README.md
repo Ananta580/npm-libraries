@@ -1,4 +1,4 @@
-# Ng Card: Beautiful Card with multiple usage
+# Ng Cards AP: Beautiful Card with multiple usage
 
 I designed this card package to help people lke me searching for a card template to add in their Angular project. This card design consists of various dynamic things which will help you to create different types of card: With Image, without image etc. I am continuously contributing to this thing and If you like this please, give me a star.
 
@@ -8,10 +8,15 @@ I designed this card package to help people lke me searching for a card template
 2. Import `NgCardModule` in your Module that will be using this card component.
 3. You have successfully set it up.
 
-> Note: Don't forget to add `--project ng-card` or else it will be added to the default project in your `angular.json` file. 
+## Example, Sample Usage (Basic card)
 
-## Build
-
+```html
+<ng-card-ap 
+[Title]="'Food and colors'"
+[Subtitle]="'Written by: Rohn Rose'" 
+[Description]="'Some sort of description that will make this card looks better and you can showcase your website with good content.'">
+</ng-card-ap>
+```
 Run `ng build ng-card` to build the project. The build artifacts will be stored in the `dist/` directory.
 
 ## Publishing
