@@ -3,5 +3,37 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-  }
+    "ng-card": {
+      "projectType": "library",
+      "root": "projects/ng-card",
+      "sourceRoot": "projects/ng-card/src",
+      "prefix": "lib",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:ng-packagr",
+          "options": {
+            "project": "projects/ng-card/ng-package.json"
+          },
+          "configurations": {
+            "production": {
+              "tsConfig": "projects/ng-card/tsconfig.lib.prod.json"
+            },
+            "development": {
+              "tsConfig": "projects/ng-card/tsconfig.lib.json"
+            }
+          },
+          "defaultConfiguration": "production"
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "main": "projects/ng-card/src/test.ts",
+            "tsConfig": "projects/ng-card/tsconfig.spec.json",
+            "karmaConfig": "projects/ng-card/karma.conf.js"
+          }
+        }
+      }
+    }
+  },
+  "defaultProject": "ng-card"
 }

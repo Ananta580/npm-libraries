@@ -1,0 +1,17 @@
+{
+  "name": "ng-cards-ap",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^13.3.0",
+    "@angular/core": "^13.3.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "description": "",
+  "author": {
+    "name": "Ananta Poudel",
+    "email": "anantapoudel580@gmail.com",
+    "url": "https://www.ananta-poudel.com.np"
+  }
+}
