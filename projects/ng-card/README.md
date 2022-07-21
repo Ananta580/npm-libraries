@@ -3,7 +3,7 @@
 I have designed this card package to help people like me searching for a card template to add in their Angular project. This card design consists of various dynamic things which will help you to create different types of card: With Image, without image etc. I am continuously contributing to this thing and If you like this after using, consider give me a star.
 
 ## Sample Images
-### 1. Basic one
+### 1. Basic / Simple without image
 <img
   src="assets/basic.png"
   alt="Sample Basic image"
