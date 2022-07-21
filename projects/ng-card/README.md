@@ -1,21 +1,21 @@
-# Ng Cards AP: Beautiful Card with multiple usage
+# Ng Cards AP: Beautiful Card with multiple usage (Angular)
 
 I have designed this card package to help people like me searching for a card template to add in their Angular project. This card design consists of various dynamic things which will help you to create different types of card: With Image, without image etc. I am continuously contributing to this thing and If you like this after using, consider give me a star.
 
 ## Sample Images
-1. Basic one
+### 1. Basic one
 <img
   src="assets/basic.png"
   alt="Sample Basic image"
   title="Sample Basic image">
 
-2. With Image and without border
+### 2. With Image and without border
 <img
   src="assets/withoutborder.png"
   alt="Without border"
   title="Without border">
 
-2. With Image and with border
+### 3. With Image and with border
 <img
   src="assets/withimage.png"
   alt="With border"
