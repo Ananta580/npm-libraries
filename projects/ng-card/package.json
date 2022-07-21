@@ -1,6 +1,6 @@
 {
   "name": "ng-cards-ap",
-  "version": "0.0.3",
+  "version": "1.0.1",
   "peerDependencies": {
     "@angular/common": "^13.3.0",
     "@angular/core": "^13.3.0"
@@ -13,5 +13,15 @@
     "name": "Ananta Poudel",
     "email": "anantapoudel580@gmail.com",
     "url": "https://www.ananta-poudel.com.np"
-  }
+  },
+  "license": "MIT",
+  "keywords": [
+    "ui.card",
+    "Card",
+    "Angular-Card",
+    "ng card",
+    "cards",
+    "Angular",
+    " Custom Card"
+  ]
 }
